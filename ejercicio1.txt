@@ -1,4 +1,10 @@
 este es el primer ejemplo de git
+
 hola a todos 
 estamos en asesoria git
 cambio en master
+
+
+primer cambio de las ramas
+ahora si cambio
+
